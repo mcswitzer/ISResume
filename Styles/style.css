@@ -1,0 +1,27 @@
+p{
+    font-weight: bold;
+}
+
+#top{
+    text-decoration: underline;
+}
+.emphasizedText{
+    font-style: normal;
+    color: black;
+}
+body{
+    background-color: whitesmoke;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    border: Spx solid black;
+    margin: 25px;
+    padding: 13px;
+}
+.centered.list{
+    padding-left: 0;
+    list-style-position: outside;
+    margin: 0 auto;
+    display: table;
+    text-align: left;
+}
+
